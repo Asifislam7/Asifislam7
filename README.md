@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Asif Islam</h1>
 <h3 align="center">An ardent web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Asifislam7&label=Profile%20views&color=0e75b6&style=flat" alt="sayyedarib" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Asifislam7&label=Profile%20views&color=0e75b6&style=flat" alt="Asif-Islam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Asifislam7" alt="Asif islam" /></a> </p>
 
-- 🔭 I’m currently working at ([Hostel Management Software)
+- 🌱 I’m currently learning *Backend Developement using Nodejs/Express and MongoDB*
 
-- 🌱 I’m currently learning *Backend Developement using Nodejs and MongoDB*
+- 🌱  I have implemented and deployed curd operation using PHP and MySQL to develop a Admin Panel for Hostel Management Software.
 
 - 💬 Ask me about *HTML,CSS,JS,React,Next,PHP*
 
