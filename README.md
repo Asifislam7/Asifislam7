@@ -9,7 +9,7 @@
 
 - 🌱  I have implemented and deployed curd operation using PHP and MySQL to develop a Admin Panel for Hostel Management Software.
 
-- 💬 Ask me about *HTML,CSS,JS,React,Next,PHP*
+- 💬 Ask me about *HTML,CSS,JS,React,Next,PHP,Express,MongoDB,NodeJS,Firebase*
 
 - 📫 How to reach me *asifislam10168@gmail.com*
 
