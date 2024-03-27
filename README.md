@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Asifislam7" alt="Asif islam" /></a> </p>
 
-- 🌱 I’m currently learning *Backend Developement using Nodejs/Express and MongoDB*
-
-- 🌱  I have implemented and deployed curd operation using PHP and MySQL to develop a Admin Panel for Hostel Management Software.
-
 - 💬 Ask me about *HTML,CSS,JS,React,Next,PHP,Express,MongoDB,NodeJS,Firebase*
 
 - 📫 How to reach me *asifislam10168@gmail.com*
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/18Kzefq1mmcN24lBfUQGSJUMNiqfA1N_xVt2bd4RCYbA/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1kofnWNkS0pwiZPvcKAGEIq3B8DIfvJ3yBKpWOcIIDnw/edit?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/asif-islam-4144aa196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
