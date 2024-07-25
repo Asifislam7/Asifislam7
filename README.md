@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Asifislam7" alt="Asif islam" /></a> </p>
 
-- Currently learning DevOps(Docker Kubernetes).
+- Currently learning Sandboxing and Containerization.
 
-- 💬 Ask me about *HTML,CSS,JS,React,Next,PHP,Express,MongoDB,NodeJS,Firebase*
+- 💬 Ask me about *HTML,CSS,JS,React,Next,PHP,Express,MongoDB,NodeJS,Firebase,Docker*
 
 - 📫 How to reach me *asifislam10168@gmail.com*
 
