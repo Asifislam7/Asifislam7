@@ -1,26 +1,47 @@
-<h1 align="center">Hi 👋, I'm Asif Islam</h1>
-<h3 align="center">Crafting digital solutions|Web developer from India</h3>
+### Hi there 👋  
+### This is Asif Islam!  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Asifislam7&label=Profile%20views&color=0e75b6&style=flat" alt="Asif-Islam" /> </p>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Asifislam7)  
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asif-islam-4144aa196/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:asifislam10168@gmail.com)  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Asifislam7" alt="Asif islam" /></a> </p>
+Welcome to my GitHub page! I am Asif Islam, a **web developer from India**, passionate about **crafting digital solutions** and solving real-world problems with technology.  
 
-- Currently learning Sandboxing and Containerization.
+<img align="right" alt="img" src="https://github-readme-stats.vercel.app/api?username=Asifislam7&show_icons=true&hide_border=true" width="50%" height="auto" />
 
-- 💬 Ask me about *HTML,CSS,JS,React,Next,PHP,Express,MongoDB,NodeJS,Firebase,Docker*
+#### 🌱 Things I am currently working on:  
+- Learning **Sandboxing and Containerization**  
+- Exploring **Docker and Kubernetes**  
+- Improving my **full-stack development skills** with **React, Next.js, and Firebase**  
 
-- 📫 How to reach me *asifislam10168@gmail.com*
+#### :muscle: Things I am challenging myself with:  
+- **Building scalable web applications**  
+- **Contributing to open-source projects**  
+- **Mastering DevOps concepts and automation**  
+- **Expanding my knowledge in backend and system architecture**  
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1kofnWNkS0pwiZPvcKAGEIq3B8DIfvJ3yBKpWOcIIDnw/edit?usp=sharing)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/asif-islam-4144aa196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+#### :computer: Programming languages and tools:  
+<p>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 </p>
-<h3 align="left">Visit my Portfolio page:</h3>
-(https://asifislam7.github.io/personal-portfolio.github.io/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="next" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>   </a></p>
+#### 🔗 Visit my Portfolio:  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0e75b6?style=flat&logo=vercel&logoColor=white)](https://asifislam7.github.io/personal-portfolio.github.io/)  
 
+#### 📄 Check out my Resume:  
+[![Resume](https://img.shields.io/badge/-Resume-blue?style=flat&logo=GoogleDrive&logoColor=white)](https://docs.google.com/document/d/1kofnWNkS0pwiZPvcKAGEIq3B8DIfvJ3yBKpWOcIIDnw/edit?usp=sharing)  
 
+---
 
+**Let’s build something amazing together! 🚀**
