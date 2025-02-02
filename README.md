@@ -7,8 +7,6 @@
 
 Welcome to my GitHub page! I am Asif Islam, a **web developer from India**, passionate about **crafting digital solutions** and solving real-world problems with technology.  
 
-<img align="right" alt="img" src="https://github-readme-stats.vercel.app/api?username=Asifislam7&show_icons=true&hide_border=true" width="50%" height="auto" />
-
 #### 🌱 Things I am currently working on:  
 - Learning **Sandboxing and Containerization**  
 - Exploring **Docker and Kubernetes**  
@@ -40,7 +38,7 @@ Welcome to my GitHub page! I am Asif Islam, a **web developer from India**, pass
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0e75b6?style=flat&logo=vercel&logoColor=white)](https://asifislam7.github.io/personal-portfolio.github.io/)  
 
 #### 📄 Check out my Resume:  
-[![Resume](https://img.shields.io/badge/-Resume-blue?style=flat&logo=GoogleDrive&logoColor=white)](https://docs.google.com/document/d/1kofnWNkS0pwiZPvcKAGEIq3B8DIfvJ3yBKpWOcIIDnw/edit?usp=sharing)  
+[![Resume](https://img.shields.io/badge/-Resume-blue?style=flat&logo=GoogleDrive&logoColor=white)](https://drive.google.com/file/d/1MjmBujLYWcT3nw_Zv3B89t8H5wSLWNqR/view?usp=drive_link)  
 
 ---
 
