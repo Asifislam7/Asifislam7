@@ -10,7 +10,7 @@ Welcome to my GitHub page! I am Asif Islam, a **web developer from India**, pass
 #### 🌱 Things I am currently working on:  
 - Learning **Sandboxing and Containerization**  
 - Exploring **Docker and Kubernetes**  
-- Improving my **full-stack development skills** with **React, Next.js, and PosgresSQL**  
+- Improving my **full-stack development skills** with **React, Next.js, and PosgreSQL**  
 
 #### :muscle: Things I am challenging myself with:  
 - **Building scalable web applications**  
