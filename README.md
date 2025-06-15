@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asif-islam-4144aa196/)  
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:asifislam10168@gmail.com)  
 
-Welcome to my GitHub page! I am Asif Islam, a **web developer from India**, passionate about **crafting digital solutions** and solving real-world problems with technology.  
+Welcome to my GitHub page! I am Asif Islam, a **Software Engineer from India**, passionate about **crafting digital solutions** and solving real-world problems with technology.  
 
 #### 🌱 Things I am currently working on: 
 - Building **DocTime**  
